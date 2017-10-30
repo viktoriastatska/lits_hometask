@@ -26,6 +26,7 @@ public class Task_2 {
 			}	
 			}
 		System.out.println("=================");
+		System.out.println("blablabla");
 //		Set uniqueDigits = new HashSet<>();
 //		for(int i = 0; i<digits.length; i++) {
 //			uniqueDigits.add(digits[i]);

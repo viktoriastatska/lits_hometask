@@ -14,6 +14,7 @@ public class Task_1 {
 		fruits.add("kiwi");
 		fruits.add("pear");
 		fruits.add("lala");
+		fruits.add("blablabla");
 		System.out.println("These fruits are available in the store:");
 		System.out.println("\t"+ fruits);
 		for(int i = 0; i<fruits.size()/2; i++) {

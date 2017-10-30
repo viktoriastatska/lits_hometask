@@ -23,8 +23,6 @@ public class Task_3 {
 		int avg = sum/numbers.length;
 		numbers[min] = avg ;
 		System.out.println("min:" + numbers[min]);
-//		System.out.println("max:" + numbers[max]);
-//		System.out.println("sum:" + sum);
 		System.out.println("avg:" + avg);
 		System.out.println(Arrays.toString(numbers));
 }

@@ -12,6 +12,7 @@ public class Task_1 {
 		fruits.add("cherry");
 		fruits.add("mango");
 		fruits.add("kiwi");
+		fruits.add("pear");
 		System.out.println("These fruits are available in the store:");
 		System.out.println("\t"+ fruits);
 		for(int i = 0; i<fruits.size()/2; i++) {
@@ -23,13 +24,11 @@ public class Task_1 {
 			
 
 	
-//		для того щоб замінити 2-гу частину списку:
+//		пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2-пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ:
 //		for(int j  = fruits.size()/2; j<fruits.size(); j++) {
 //			fruits.set(j, "pineapple");
 //		
 //		}
-		
-	
 
 }
 }

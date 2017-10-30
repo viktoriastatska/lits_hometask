@@ -13,7 +13,7 @@ public class Task_1 {
 		fruits.add("mango");
 		fruits.add("kiwi");
 		fruits.add("pear");
-		fruits.add("waterlemon");
+		fruits.add("lala");
 		System.out.println("These fruits are available in the store:");
 		System.out.println("\t"+ fruits);
 		for(int i = 0; i<fruits.size()/2; i++) {

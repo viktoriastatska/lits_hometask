@@ -6,7 +6,7 @@ import java.util.Set;
 public class Task_2 {
 
 	public static void main(String[] args) {
-		int[] digits = {1, 2, 3, 4, 4, 5, 6, 6, 7, 8};{
+		int[] digits = {1, 2, 3, 4, 4, 5, 6, 6, 7, 7, 8};{
 		
 			for(int i = 0; i<digits.length; i++) {
 				System.out.println("initial order:" + "\t" + digits[i]);
@@ -26,6 +26,7 @@ public class Task_2 {
 			}	
 			}
 		System.out.println("=================");
+		System.out.println("blablabla");
 //		Set uniqueDigits = new HashSet<>();
 //		for(int i = 0; i<digits.length; i++) {
 //			uniqueDigits.add(digits[i]);

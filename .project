@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
 	<name>Viktoria_Statska_home_tasks_lits</name>
-=======
-	<name>lits_hometask</name>
->>>>>>> 6e13ee1fbb84fafc7f7b958ab4c2b7980d447635
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -18,9 +13,5 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-=======
-	</buildSpec>
-	<natures>
->>>>>>> 6e13ee1fbb84fafc7f7b958ab4c2b7980d447635
 	</natures>
 </projectDescription>
